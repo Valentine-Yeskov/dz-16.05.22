@@ -1,21 +1,15 @@
 public class Car {
     public static void start(){
-    int a = 10;
-    int b = 5;
 
     }
     private void startElectricity(){
-        System.out.println("jugful");
+        System.out.println("BBBBBB");
     }
-    private void startCommand(int a, int b){
-        int max;
-        if (a>b)
-            max = b;
-        else
-            max = a;
+    private void startCommand(){
+        System.out.println("AAAAAAA");
     }
     private void startFuelSystem(){
-        System.out.println("jugful");
+        System.out.println("CCCCCC");
 
     }
 
